@@ -1,5 +1,3 @@
-# Python script to convert VOC format to YOLO format
-# By NALE - 26/01/2022
 from xml.dom import minidom
 from tkinter.filedialog import askdirectory
 from tkinter import Tk
